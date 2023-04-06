@@ -81,3 +81,9 @@
 .circle button#open {
   left: 60%;
 }
+
+.circle button#close {
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
+}
